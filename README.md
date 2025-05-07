@@ -1,12 +1,12 @@
 Position: Swift Developer  
 
 You will:
-- Build in Swift.
-- Creating fluid swipe and transition animations.
-- Optimizing data structures to minimize server load times by predictive preloading and caching.
-- Integrate OpenAI APIs into a Swift front-end (I already deployed a prototype that works).
-- Implement fast and reliable peer-to-peer, one-on-one video streaming.
-- Implement Web3 payment integrations on CELO Level 2 blockchain, including Apple Pay token purchasing.
+1. Build in Swift.
+2. Creating fluid swipe and transition animations.
+3. Optimizing data structures to minimize server load times by predictive preloading and caching.
+4. Integrate OpenAI APIs into a Swift front-end (I already deployed a prototype that works).
+5. Implement fast and reliable peer-to-peer, one-on-one video streaming.
+6. Implement Web3 payment integrations on CELO Level 2 blockchain, including Apple Pay token purchasing.
 
 I will:
 - Pay you $1,000/month while we aren't funded.

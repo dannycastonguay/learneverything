@@ -2,8 +2,8 @@ Position: Swift Developer
 
 You will:
 1. Build in Swift.
-2. Creating fluid swipe and transition animations.
-3. Optimizing data structures to minimize server load times by predictive preloading and caching.
+2. Create fluid swipe and transition animations.
+3. Optimize data structures to minimize server load times by predictive preloading and caching.
 4. Integrate OpenAI APIs into a Swift front-end (I already deployed a prototype that works).
 5. Implement fast and reliable peer-to-peer, one-on-one video streaming.
 6. Implement Web3 payment integrations on CELO Level 2 blockchain, including Apple Pay token purchasing.

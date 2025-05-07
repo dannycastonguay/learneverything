@@ -20,3 +20,5 @@ Attributes:
 - Don't miss important details.
 - Be ethical.
 - Nice to have: Codeforces rating above 2000.
+
+How to apply: go to bld.ai, start a project, add me as a client d@bld.ai. 

@@ -15,7 +15,7 @@ I will:
 - Use V0 by Vercel prototype as design reference.
 
 Attributes:
-- Work hard. See: https://blog.dannycastonguay.com/on-working-hard/
+- Work hard: https://blog.dannycastonguay.com/on-working-hard/
 - Be an owner: https://blog.dannycastonguay.com/on-being-an-owner/
 - Accept that life sucks: https://blog.dannycastonguay.com/life-sucks/
 - Don't miss important details.

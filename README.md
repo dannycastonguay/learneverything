@@ -7,6 +7,7 @@ You will:
 4. Integrate OpenAI APIs into a Swift front-end (I already deployed a prototype that works).
 5. Implement fast and reliable peer-to-peer, one-on-one video streaming.
 6. Implement Web3 payment integrations on CELO Level 2 blockchain, including Apple Pay token purchasing.
+7. Deploy on Hetzner w Dokku.
 
 I will:
 - Pay you $1,000/month while we aren't funded.

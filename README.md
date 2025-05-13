@@ -10,7 +10,7 @@ You will:
 7. Deploy on Hetzner w Dokku.
 
 I will:
-- Pay you $1,000/month while we aren't funded.
+- Pay you $1,000/month while we aren't funded (this isn't for bld.ai, it's only you and me for now).
 - Meet w you 30 minutes/day to review, problem solve, and plan your 7-8 hours of work. 4PM Singapore time.
 - Use V0 by Vercel prototype as design reference.
 
